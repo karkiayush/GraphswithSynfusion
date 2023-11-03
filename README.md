@@ -1,5 +1,5 @@
-# flutter_graph
-This repo holds the code of different kinds of graphs and chart created using the flutter synfusion library and the demo of those charts and graphs is as below: 
+# flutter_graph 📈📊
+This repo holds the code of different kinds of graphs  and chart created using the flutter synfusion library and the demo of those charts and graphs is as below: 
 
 # output:
 ![1695551112610](https://github.com/karkiayush/GraphswithSynfusion/assets/88551233/0f2879a1-c9a8-4ef0-8a03-5950084fa363)
